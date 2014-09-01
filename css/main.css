@@ -1,0 +1,25 @@
+body {
+	padding-top: 70px;
+	padding-bottom: 40px;
+}
+
+.container {
+	max-width: 900px;
+}
+
+.jumbotron {
+	text-align: center;
+}
+
+.carousel-indicators {
+	bottom: 0;
+}
+
+.footer {
+	text-align: center;
+	padding-top: 5px;
+}
+
+.carousel {
+	padding: 0;
+}
