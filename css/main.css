@@ -17,7 +17,8 @@ body {
 
 .footer {
 	text-align: center;
-	padding-top: 5px;
+	padding-top: 7px;
+	border-top: 1px solid #F0F0F0;
 }
 
 .carousel {
@@ -45,3 +46,23 @@ body {
 	text-align: center;
 	max-width: 720px;
 }
+
+.navbar-default {
+	background-image: none;
+	background-color: white;
+	opacity: 0.99;
+  	-webkit-box-shadow: none !important;
+}
+
+.navbar-brand {
+	font-size: 20px;
+}
+
+li.active {
+    background: #F0F0F0;
+}
+
+.well {
+	background: #F8F8F8;
+}
+
