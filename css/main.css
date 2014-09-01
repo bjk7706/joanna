@@ -22,10 +22,10 @@ body {
 
 .carousel {
 	padding: 0;
+	background-color: white;
 }
 
-#thumbContainer {
-	background-color: orange;
-	overflow-x: scroll;
-	overflow-y: hidden;
+.carousel-control.left,
+.carousel-control.right {
+	background-image: none;
 }
