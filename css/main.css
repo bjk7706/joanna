@@ -23,3 +23,9 @@ body {
 .carousel {
 	padding: 0;
 }
+
+#thumbContainer {
+	background-color: orange;
+	overflow-x: scroll;
+	overflow-y: hidden;
+}
