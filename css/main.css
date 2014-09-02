@@ -41,6 +41,7 @@ body {
 	background-color: white;
 	opacity: 0.99;
   	-webkit-box-shadow: none !important;
+  	border-bottom: 1px solid #F0F0F0;
 }
 
 .navbar-brand {
