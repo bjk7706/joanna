@@ -113,3 +113,60 @@ p.caption {
 	height: 100%;
 	width: 100%;
 }
+
+.blog-post {
+	background-color: #F8F8F8;
+	max-width: 700px;
+	padding: 20px 20px 10px 20px;
+	margin-top: 20px;
+	margin-bottom: 60px;
+	border-radius: 25px;
+}
+
+.blog-post img {
+	border-radius: 5px;
+	max-width: 40%;
+	max-height: 200px;
+	height: auto;
+	margin: 8px 0 0 15px;
+	float: right;
+}
+
+.blog-post p {
+	text-align: justify;
+	max-width: 700px;
+	font-size: 1.1em;
+	line-height: 1.8;
+	margin-bottom: 25px;
+}
+
+.blog-post h2 {
+	margin-bottom: 10px;
+	margin-top: 5px;
+}
+
+.blog-post h5 {
+	margin-bottom: 20px;
+	color: #808080;
+}
+
+.bio {
+	margin-top: 20px;
+	text-align: center;
+	background-color: #F8F8F8;
+	max-width: 700px;
+	padding: 20px;
+	margin-bottom: 60px;
+	border-radius: 25px;
+}
+
+.bio h2 {
+	margin-bottom: 10px;
+	margin-top: 5px;
+}
+
+.bio p {
+	max-width: 700px;
+	font-size: 1.1em;
+	line-height: 1.8;
+}
