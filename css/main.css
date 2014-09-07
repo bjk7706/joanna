@@ -104,6 +104,7 @@ p.caption {
 	font-size: 100px;
 	margin-top: -80px;
 }
+
 .modal-dialog {
     width: 98%;
     height: 97%;
@@ -156,6 +157,8 @@ p.caption {
 .blog-post h5 {
 	margin-bottom: 20px;
 	color: #888888;
+	font-weight: normal;
+	font-size: 13px;
 }
 
 .bio {
