@@ -1,4 +1,4 @@
-AuthUserFile /.htpasswd 
+AuthUserFile .htpasswd 
 AuthGroupFile /dev/null 
 AuthName "Protected Page" 
 AuthType Basic require valid-user
