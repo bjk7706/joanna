@@ -32,6 +32,14 @@ body {
 	background-image: none;
 }
 
+.big-carousel {
+	background-color: #181818;
+}
+
+.big-carousel p {
+	color: white;
+}
+
 .thumbnail {
 	margin-bottom: 0;
 }
