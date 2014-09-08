@@ -49,8 +49,7 @@ body {
 }
 
 .nav-link-active {
-	background: #F8F8F8;
-  	color: red;
+  	background-color: #F8F8F8;
 }
 
 .nav-link-active a {
@@ -196,4 +195,31 @@ p.caption {
 .close:focus {
 	opacity: 1;
     color: white;
+}
+
+.contact-container {
+	display: none;
+	max-width: 65px;
+	position: fixed;
+	bottom: 5%;
+	right: 0;
+}
+
+.contact-container img {
+	max-height: 50px;
+	max-width: 50px;
+}
+
+.logo {
+	opacity: 0.2;
+}
+
+.logo:hover {
+	opacity: 0.4;
+}
+
+@media (min-width: 768px) {
+  .contact-container {
+    display: inline-block;
+  }
 }
