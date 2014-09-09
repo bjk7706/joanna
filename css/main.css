@@ -32,10 +32,6 @@ body {
 	background-image: none;
 }
 
-.big-carousel {
-	background-color: #181818;
-}
-
 .big-carousel p {
 	color: white;
 }
@@ -75,10 +71,12 @@ body {
 	overflow-y: none;
 	white-space: nowrap;
 }
+
 .chevron {
 	width: 100px;
 	height: 100px;
 }
+
 .thumb {
 	display: inline-block;
 	padding-left: 5px;
@@ -100,7 +98,7 @@ p.caption {
 }
 
 .carousel-img {
-	max-height: 600px;
+	/*max-height: 600px;*/
 	margin: 0 auto;
 }
 
@@ -224,6 +222,16 @@ p.caption {
 
 .logo:hover {
 	opacity: 0.4;
+}
+
+.big-carousel {
+	background-color: red;
+}
+
+.big-carousel-container {
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 90%;
 }
 
 @media (min-width: 768px) {
