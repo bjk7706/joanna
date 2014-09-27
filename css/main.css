@@ -106,8 +106,8 @@ p.caption {
 .carousel-control .icon-next,
 .carousel-control .glyphicon-chevron-left,
 .carousel-control .glyphicon-chevron-right {
-	font-size: 100px;
 	margin-top: -80px;
+	font-size: 5em;
 }
 
 .modal-dialog {
