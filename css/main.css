@@ -234,6 +234,11 @@ p.caption {
 	max-width: 90%;
 }
 
+.footer a {
+	color: #777;
+  	text-decoration: none;
+}
+
 @media (min-width: 768px) {
   .contact-container {
     display: inline-block;
